@@ -3,20 +3,15 @@ title: Events
 date: 2018-06-04 00:43:00 Z
 ---
 
-First Out of Country Experience
+Exploring a world of possibilities
+EWU Commencement
+Come join the celebration at Spokane Arena to congratulate the future leaders of America
 
-Auntie Angela
+Angela's Birthday Bash
+Your invited to come and enjoy a feast at Red Robin to celebrate my birthday
 
-Enlistment in the United States Air Force
+Our Anniversary
+We will enjoy a romantic dinner cruise on lake Coeur d'Alene
 
-Airman Martin
-
-Senior Airman Martin
-
-Overseas Deployment
-
-Engagement
-
-Our Wedding Day
-
-College Student and Military Spouse
+Franklin Graham
+Pacific Northwest Tour
