@@ -1,5 +1,5 @@
 ---
-title: Life Events
+title: Events
 date: 2018-06-04 00:43:00 Z
 ---
 
