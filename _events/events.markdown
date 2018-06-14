@@ -1,6 +1,7 @@
 ---
 title: Events
 date: 2018-06-04 00:43:00 Z
+images: "/uploads/Angela-108.jpg"
 ---
 
 Exploring a world of possibilities
