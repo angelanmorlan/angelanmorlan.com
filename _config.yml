@@ -27,4 +27,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-remote_theme: justice
+remote_theme: justice-jekyll-template
