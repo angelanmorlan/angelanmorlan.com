@@ -1,29 +1,22 @@
 ---
-title: Angela Morlan
+title: Angela N Morlan
 timezone: UTC
 collections:
-  events:
-    title: Events
-    output: true
-  portfolio:
-    title: Portfolio
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+email: angelanmorlan@eagles.ewu.edu
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: 
+twitter_username: jekyllrb
+github_username: angelanmorlan
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
